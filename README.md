@@ -1,4 +1,4 @@
-readme: |
+readme: ⚠️ This repository has moved to https://github.com/Knukie/Vichat-monorepo
   # @valki/contracts — Shared TypeScript Contracts for Vichat
 
   `@valki/contracts` is het officiële domeinmodel- en typepakket voor het **Vichat** platform.  
